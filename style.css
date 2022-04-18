@@ -16,10 +16,15 @@ p {
     margin: 8px auto;
     font-size: larger;
 }
-h1, h2, p {
+h1, h2, p, p1 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 img {
     margin: 50px auto;
     padding-left: 600px;
+}
+p1 {
+ margin-left: 560px;
+ color: yellow;
+ background-color: black;
 }
